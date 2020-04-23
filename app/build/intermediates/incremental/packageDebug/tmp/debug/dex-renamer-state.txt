@@ -1,0 +1,4 @@
+#Thu Apr 23 16:27:36 EDT 2020
+base.0=/Users/fieldemployee/Documents/Android Projects/MaterialMe/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
